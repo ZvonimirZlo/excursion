@@ -34,3 +34,7 @@ footer {
     color: gray;
     font-size: 21px;
 }
+
+.animate__animated.animate__fadeIn {
+    --animate-duration: 2s;
+  }
